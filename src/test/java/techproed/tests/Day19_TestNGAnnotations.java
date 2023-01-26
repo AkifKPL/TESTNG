@@ -4,7 +4,7 @@ import org.testng.annotations.*;
 public class Day19_TestNGAnnotations {
     /*
     @Test : Test case ousturmak icin kullanilir
-    @Before ve @After : 5 Before 5 After anotations var
+    @Before ve @After : 5 Before 5 After anotations va
     suite > tests > grup > class > method
     @BeforeSuite : her bir test suite den once 1 sefer calisir
     @AfterSuite : her bir test suiteden sonra 1 sefer calisir
