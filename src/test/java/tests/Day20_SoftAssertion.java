@@ -1,5 +1,4 @@
-package techproed.tests;
-import org.testng.Assert;
+package tests;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 public class Day20_SoftAssertion {

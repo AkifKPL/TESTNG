@@ -1,5 +1,4 @@
-package techproed.tests;
-import org.testng.Assert;
+package tests;
 import org.testng.annotations.Test;
 public class Day20_DependsOnMethods {
     @Test

@@ -1,5 +1,4 @@
-package techproed.tests;
-import org.testng.SkipException;
+package tests;
 import org.testng.annotations.*;
 public class Day19_TestNGAnnotations {
     /*
