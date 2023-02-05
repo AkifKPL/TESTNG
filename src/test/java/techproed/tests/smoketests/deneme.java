@@ -47,10 +47,10 @@ public class deneme {
 //        10.Password kısmının ikincisine tıklar
 //        11.Oluşturdugu passwordü tekrar girer
 //        12.Register butonuna tıklar
-        Driver.getDriver().findElement(By.id("wcfm_membership_register_button")).click();
+        Driver.getDriver().findElement(By.xpath("//*[@id=\"wcfm_membership_register_button\"]")).click();
 
 //        13.Kayıt olarak siteye vendor olarak giriş yapabilmeli
 
-
+//*[@id="wcfm_membership_register_button"]
     }
 }
